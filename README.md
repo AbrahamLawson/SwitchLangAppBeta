@@ -36,3 +36,4 @@ npm run lint
 # Frontend
 # Frontend
 # SwitchLangAppBeta
+# SwitchLangAppBeta
