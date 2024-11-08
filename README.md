@@ -1,4 +1,3 @@
-#  switchLang-frontend-app
 
 # SwitchLangApp - Beta
 
@@ -11,7 +10,7 @@ SwitchLangApp est une application Web permettant de télécharger des vidéos et
 - **Upload de vidéo** : Permet à l'utilisateur de télécharger des vidéos au format `.mp4` via un formulaire simple.
 - **Lecture de vidéo** : Un player vidéo intégré permet de lire la vidéo téléchargée directement dans l'application.
 - **Choix de la langue** : L'utilisateur peut choisir la langue pour la traduction (actuellement disponible : Anglais et Français).
-- **API de traduction** : Envoi d'une requête à un backend pour traiter les traductions (fonction en développement).
+- **API de traduction** : Envera d'une requête à un backend pour traiter les traductions (fonction en développement).
 
 ---
 
